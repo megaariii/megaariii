@@ -1,32 +1,34 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Mega!</h1>
-<h3 align="center">I'm a passionate Frontend Engineer from Bali.</h3>
+<h2 align="left">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Mega!</h2>
 
-## 🙋‍♂️ About Me
+I'm one of the young people from Indonesia who is interested in 💻 programming. Talking about personal stuffs:
 
 - 🌱 I’m currently learning **Anything.**
+- 🎭 I am very interested in **Culture.**
+- 🎬 I like watching **Movies** or **Anime** and play some **Game** when I'm bored.
+- 🤠 I'm an **Open Source** enthusiast.
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+```text
+🚀 Professional Skills:
 
-- 📫 How to reach me **mega.ari186@gmail.com**
+JavaScript              ███████████████████████████████░░░░   95.19%
+BootStrap               ██████████████████████████░░░░░░░░░   89.72%
+React.js & Redux        ██████████████████░░░░░░░░░░░░░░░░░   77.80%
+Sass                    █████████████████████████████░░░░░░   92.43%
+Git                     ████████████████████████░░░░░░░░░░░   85.61%
+```
 
-## 🚀 Languages and Tools:
+<details>
+  <summary><strong>Connect with me ⚡️<strong></summary><br>
 
-<p align="left"> 
-    <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
-    <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/css3.png"/> </a> 
-    <a href="https://getbootstrap.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/bootstrap.png"/> </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://img.icons8.com/color/48/000000/javascript.png"/> </a> 
-    <a style="padding-right:8px;" href="https://www.mysql.com/" target="_blank"> <img src="https://img.icons8.com/fluent/50/000000/mysql-logo.png"/> </a>
-    <a href="https://git-scm.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/git.png"/> </a> 
-    <a href="https://reactjs.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/react-native.png"/> </a>
-    <a href="https://redux.js.org" target="_blank"> <img src="https://img.icons8.com/color/48/000000/redux.png"/> </a>
-</p>
+- Portfolio: [On Progress](https://www.google.com)
+- LinkedIn: [linkedin.com/in/i-wayan-mega-arimerta-b95922200](https://www.linkedin.com/in/i-wayan-mega-arimerta-b95922200/)
+- Instagram: [instagram.com/megaariii](https://www.instagram.com/megaariii)
+  <!-- - Codepen: [codepen.io/febrithm](https://codepen.io/febrithm) -->
+  </details>
 
-## Connect with me:
+## Certificate
 
-<p align="left">
+I have several certificates of expertise, here are my certificates of expertise:
 
-<a href = "https://www.linkedin.com/in/i-wayan-mega-arimerta-b95922200/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
-<a href = "https://www.instagram.com/megaariii/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
-
-</p>
+- [Responsive Web Design](https://www.freecodecamp.org/certification/megaariii/responsive-web-design) ~ freeCodeCamp
+- [JavaScript](https://github.com/megaariii/megaariii/blob/main/documents/certificates/SoloLearn-JavaScript.png) ~ SoloLearn
