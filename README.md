@@ -31,4 +31,5 @@ Git                     ██████████████████�
 I have several certificates of expertise, here are my certificates of expertise:
 
 - [Responsive Web Design](https://www.freecodecamp.org/certification/megaariii/responsive-web-design) ~ freeCodeCamp
-- [JavaScript](https://github.com/megaariii/megaariii/blob/main/documents/certificates/SoloLearn-JavaScript.png) ~ SoloLearn
+- [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/megaariii/javascript-algorithms-and-data-structures) ~ freeCodeCamp
+- [JavaScript](https://www.sololearn.com/certificates/course/en/24397451/1024/landscape/png) ~ SoloLearn
