@@ -23,13 +23,15 @@ Git                     ██████████████████�
 - Portfolio: [On Progress](https://www.google.com)
 - LinkedIn: [linkedin.com/in/i-wayan-mega-arimerta-b95922200](https://www.linkedin.com/in/i-wayan-mega-arimerta-b95922200/)
 - Instagram: [instagram.com/megaariii](https://www.instagram.com/megaariii)
-  <!-- - Codepen: [codepen.io/febrithm](https://codepen.io/febrithm) -->
   </details>
 
 ## Certificate
 
-I have several certificates of expertise, here are my certificates of expertise:
+<details>
+  <summary><strong>I have several certificates of expertise, here are my certificates of expertise:<strong></summary><br>
 
 - [Responsive Web Design](https://www.freecodecamp.org/certification/megaariii/responsive-web-design) ~ freeCodeCamp
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/megaariii/javascript-algorithms-and-data-structures) ~ freeCodeCamp
 - [JavaScript](https://www.sololearn.com/certificates/course/en/24397451/1024/landscape/png) ~ SoloLearn
+- [JavaScript (Basic)](https://www.hackerrank.com/certificates/a8bc67d6fae8) ~ HackerRank
+  </details>
