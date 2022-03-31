@@ -33,5 +33,6 @@ Git                     ██████████████████�
 - [Responsive Web Design](https://www.freecodecamp.org/certification/megaariii/responsive-web-design) ~ freeCodeCamp
 - [JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/certification/megaariii/javascript-algorithms-and-data-structures) ~ freeCodeCamp
 - [JavaScript](https://www.sololearn.com/certificates/course/en/24397451/1024/landscape/png) ~ SoloLearn
+- [React + Redux](https://www.sololearn.com/Certificate/1097-24397451/jpg/) ~ SoloLearn
 - [JavaScript (Basic)](https://www.hackerrank.com/certificates/a8bc67d6fae8) ~ HackerRank
   </details>
