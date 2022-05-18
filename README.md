@@ -24,8 +24,8 @@ I'm one of the young people from Indonesia who is interested in 💻 programming
 
 <p align="left">
 <a href="https://github.com/megaariii">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=megaariii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=megaariii&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=megaariii&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=megaariii&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
