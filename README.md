@@ -1,10 +1,11 @@
-<h2 align="left">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px" heigt="20px">, I'm Mega!</h2>
+### Hi! 👋 I'm Mega.
 
 I'm one of the young people from Indonesia who is interested in 💻 programming. Talking about personal stuffs:
 
 - 🌱 I’m currently learning **Anything.**
 - 🎭 I am very interested in **Culture.**
 - 🎬 I like watching **Movies** or **Anime** and play some **Game** when I'm bored.
+- 📫 How to reach me: mega.ari186@gmail.com
 - 🤠 I'm an **Open Source** enthusiast.
 
 ### Tech Stack
