@@ -1,4 +1,4 @@
-<h2 align="left">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px">, I'm Mega!</h2>
+<h2 align="left">Hi There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">, I'm Mega!</h2>
 
 I'm one of the young people from Indonesia who is interested in 💻 programming. Talking about personal stuffs:
 
