@@ -16,8 +16,8 @@ I'm one of the young people from Indonesia who is interested in 💻 programming
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img align="left" title="NodeJS" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"width="25px" height="25px" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img align="left" title="Express" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="25px" height="25px" alt="Express" /></a>
 <a href="https://hapi.dev/" target="_blank" rel="noreferrer"><img align="left" title="Hapi (NodeJS HTTP Framework)" width="25px" height="25px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img title="PostgreeSQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="25px" height="25px" alt="PostgreSQL" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" title="ReactJS" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="25px" height="25px" alt="Mysql" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img title="PostgreSQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="25px" height="25px" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" title="MySQL" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="25px" height="25px" alt="Mysql" /></a>
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="left" title="MongoDB" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="25px" height="25px" alt="MongoDB" /></a>
 </p>
 
