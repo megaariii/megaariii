@@ -6,19 +6,19 @@ I'm one of the young people from Indonesia who is interested in 💻 programming
 - 🎭 I am very interested in **Culture.**
 - 🎬 I like watching **Movies** or **Anime** and play some **Game** when I'm bored.
 - 📫 How to reach me: mega.ari186@gmail.com
-- 🤠 I'm an **Open Source** enthusiast.
+- 🤠 I'm an **Tech** enthusiast.
 
 ### Tech Stack
 
 <p align="left">
+<a href="https://golang.google.cn/" target="_blank" rel="noreferrer"><img align="left" title="JavaScript" src="https://ashitani.jp/golangtips/gopher.png" width="25px" height="25px" alt="Golang" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="left" title="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="25px" height="25px" alt="JavaScript" /></a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img align="left" title="ReactJS" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="25px" height="25px" alt="React" /></a>
-<!-- <a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img title="NextJs" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a> -->
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img align="left" title="NodeJS" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"width="25px" height="25px" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img align="left" title="Express" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="25px" height="25px" alt="Express" /></a>
 <a href="https://hapi.dev/" target="_blank" rel="noreferrer"><img align="left" title="Hapi (NodeJS HTTP Framework)" width="25px" height="25px" src="https://avatars.githubusercontent.com/u/3774533?s=200&v=4" /></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="left" title="MongoDB" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="25px" height="25px" alt="MongoDB" /></a>
 <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img title="PostgreeSQL" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="25px" height="25px" alt="PostgreSQL" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img align="left" title="ReactJS" src="https://pngimg.com/uploads/mysql/mysql_PNG23.png" width="25px" height="25px" alt="Mysql" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img align="left" title="MongoDB" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="25px" height="25px" alt="MongoDB" /></a>
 </p>
 
 ### Github Statistic
