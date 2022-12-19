@@ -11,7 +11,7 @@ I'm one of the young people from Indonesia who is interested in 💻 programming
 ### Tech Stack
 
 <p align="left">
-<a href="https://golang.google.cn/" target="_blank" rel="noreferrer"><img align="left" title="JavaScript" src="https://ashitani.jp/golangtips/gopher.png" width="25px" height="25px" alt="Golang" /></a>
+<a href="https://golang.google.cn/" target="_blank" rel="noreferrer"><img align="left" title="Golang" src="https://ashitani.jp/golangtips/gopher.png" width="25px" height="25px" alt="Golang" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img align="left" title="JavaScript" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="25px" height="25px" alt="JavaScript" /></a>
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img align="left" title="NodeJS" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg"width="25px" height="25px" alt="NodeJS" /></a>
 <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img align="left" title="Express" src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="25px" height="25px" alt="Express" /></a>
